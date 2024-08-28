@@ -13,4 +13,6 @@ root.render(
   </React.StrictMode>
 );
 
+module.hot.accept();
+
 
