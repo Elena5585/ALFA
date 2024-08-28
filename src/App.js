@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
 import axios from 'axios';
-import { useSelector, useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { HashRouter } from "react-router-dom";
 import AppRouter from './AppRouter.js';
 import { getCardsAction } from './store/cardReducer.js';
