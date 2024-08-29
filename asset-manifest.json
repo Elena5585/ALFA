@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Elena5585/Alfa.git/static/css/main.131af352.css",
-    "main.js": "/Elena5585/Alfa.git/static/js/main.0e86cb62.js",
-    "index.html": "/Elena5585/Alfa.git/index.html",
-    "main.131af352.css.map": "/Elena5585/Alfa.git/static/css/main.131af352.css.map",
-    "main.0e86cb62.js.map": "/Elena5585/Alfa.git/static/js/main.0e86cb62.js.map"
+    "main.css": "Elena5585/Alfa/blob/main/static/css/main.131af352.css",
+    "main.js": "/Elena5585/Alfa/blob/main/static/js/main.0e86cb62.js",
+    "index.html": "/Elena5585/Alfa/blob/main/index.html",
+    "main.131af352.css.map": "/Elena5585/Alfa/blob/main/static/css/main.131af352.css.map",
+    "main.0e86cb62.js.map": "/Elena5585/Alfa/blob/main/static/js/main.0e86cb62.js.map"
   },
   "entrypoints": [
     "static/css/main.131af352.css",
     "static/js/main.0e86cb62.js"
   ]
 }
+
