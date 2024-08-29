@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Alfa/static/css/main.131af352.css",
-    "main.js": "/Alfa/static/js/main.4eb822c8.js",
+    "main.js": "/Alfa/static/js/main.8d3d192c.js",
     "static/media/like.svg": "/Alfa/static/media/like.84cc9b309eafb1366a0537475692a823.svg",
     "static/media/like-liked.svg": "/Alfa/static/media/like-liked.c64838d6f243f18a2c7aa4d39119b4b3.svg",
     "static/media/ok.svg": "/Alfa/static/media/ok.9b2da43f1447b0380905c476565b7c59.svg",
     "static/media/remove.svg": "/Alfa/static/media/remove.68183ec45e7cea96b0889728bfbafb0e.svg",
     "index.html": "/Alfa/index.html",
     "main.131af352.css.map": "/Alfa/static/css/main.131af352.css.map",
-    "main.4eb822c8.js.map": "/Alfa/static/js/main.4eb822c8.js.map"
+    "main.8d3d192c.js.map": "/Alfa/static/js/main.8d3d192c.js.map"
   },
   "entrypoints": [
     "static/css/main.131af352.css",
-    "static/js/main.4eb822c8.js"
+    "static/js/main.8d3d192c.js"
   ]
 }
